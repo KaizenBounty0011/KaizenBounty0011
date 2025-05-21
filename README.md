@@ -1,4 +1,4 @@
-<h2 style="color:red;">👋 Hi, I'm Peter Prest!</h2>
+## 👋 Hi, I'm Peter Prest! 
 
 Welcome to my GitHub profile! I'm a **Software Engineer** & **Cybersecurity Expert**.
 
