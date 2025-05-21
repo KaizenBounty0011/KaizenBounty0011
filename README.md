@@ -11,31 +11,37 @@ Welcome to my GitHub profile! I'm a **Software Engineer** & **Cybersecurity Expe
 
 ## 🚀 Tech Stack
 
-**Languages & Scripting:**  
-![Python](https://img.shields.io/badge/-Python-FF0000?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FF0000?logo=javascript&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-FF0000?logo=java&logoColor=white&style=flat-square)
-![PHP](https://img.shields.io/badge/-PHP-FF0000?logo=php&logoColor=white&style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-FF0000?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-FF0000?logo=css3&logoColor=white&style=flat-square)
+## 👋 Hi, I'm Peter Prest!
 
-**Tools & Platforms:**  
-![MySQL](https://img.shields.io/badge/-MySQL-FF0000?logo=mysql&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-FF0000?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-FF0000?logo=github&logoColor=white&style=flat-square)
+---
+
+### **Languages & Scripting:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+
+---
+
+### **Tools & Platforms:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
+---
 
 ## 🛡️ Cybersecurity & Penetration Testing Tools  
-![Linux](https://img.shields.io/badge/-Linux-FF0000?logo=linux&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FC0000?logo=linux&logoColor=white&style=flat-square)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-FF0000?logo=kalilinux&logoColor=white&style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF0000?style=flat-square&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF0000?logo=postman&logoColor=white&style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-FF0000?logo=wireshark&logoColor=white&style=flat-square)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-FF0000?style=flat-square&logoColor=white)
-![Hydra](https://img.shields.io/badge/-Hydra-FF0000?style=flat-square&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-FF0000?style=flat-square&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-FF0000?style=flat-square&logoColor=white)
 ![Nikto](https://img.shields.io/badge/-Nikto-FF0000?style=flat-square&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/-SQLMap-FF0000?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-FF0000?style=flat-square&logoColor=white)
 
 
 
