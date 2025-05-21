@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Peter Prest! 
 
 Welcome to my GitHub profile! I'm a **Software Engineer** & **Cybersecurity Expert**.
-
+---
 ### 👨‍💻 About Me
 - 🔐 Cybersecurity enthusiast with hands-on experience in penetration testing and ethical hacking.
 - 💻 5+ years of experience as a Software Engineer.
@@ -9,10 +9,8 @@ Welcome to my GitHub profile! I'm a **Software Engineer** & **Cybersecurity Expe
 - 🎯 Focused on building security focused backend systems and  applications..
 - 🌍 Based in Nigeria.
 
+---
 ## 🚀 Tech Stack
-
-## 👋 Hi, I'm Peter Prest!
-
 ---
 
 ### **Languages & Scripting:**  
@@ -23,14 +21,11 @@ Welcome to my GitHub profile! I'm a **Software Engineer** & **Cybersecurity Expe
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
----
 
 ### **Tools & Platforms:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-
----
 
 ## 🛡️ Cybersecurity & Penetration Testing Tools  
 ![Linux](https://img.shields.io/badge/-Linux-FC0000?logo=linux&logoColor=white&style=flat-square)
@@ -44,13 +39,14 @@ Welcome to my GitHub profile! I'm a **Software Engineer** & **Cybersecurity Expe
 ![Nmap](https://img.shields.io/badge/-Nmap-FF0000?style=flat-square&logoColor=white)
 
 
-
+---
 ## 📊 GitHub Stats
 ![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaizenBounty0011&show_icons=true&theme=radical)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaizenBounty0011&layout=compact&theme=radical)
 
+---
 ## 📂 Past Projects
 
 ### 🔐 Stock Price Checker
