@@ -19,6 +19,11 @@ Welcome to my GitHub profile! I'm **Peter Prest Jnr**, a passionate **Software E
 - Advanced penetration testing techniques
 - Scalable system architecture
 
+## 📊 GitHub Stats
+![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaizenBounty0011&show_icons=true&theme=radical)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaizenBounty0011&layout=compact&theme=radical)
 
 ## 📂 Past Projects
 
