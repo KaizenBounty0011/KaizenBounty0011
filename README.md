@@ -6,18 +6,39 @@ Welcome to my GitHub profile! I'm **Peter Prest Jnr**, a passionate **Software E
 - 🔐 Cybersecurity enthusiast with hands-on experience in penetration testing and ethical hacking.
 - 💻 5+ years of experience as a Software Engineer.
 - 🛠️ Skilled in Python, PHP, JavaScript, MySQL, and more.
-- 🎯 Focused on building secure, scalable, and user-friendly applications.
+- 🎯 Focused on building security focused backend systems and  applications..
 - 🌍 Based in Nigeria.
 
-### 🚀 What I'm Working On
-- 🧩 Children's educational games and web apps.
-- 🔐 Security-focused backend systems and mobile applications.
-- 📱 Full-stack development for startups and personal projects.
+## 🚀 Tech Stack
 
-### 📚 Currently Learning
-- Cloud services (AWS)
-- Advanced penetration testing techniques
-- Scalable system architecture
+**Languages & Scripting:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+
+**Tools & Platforms:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
+
+## 🛡️ Cybersecurity & Penetration Testing Tools
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=flat-square)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat-square&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
+![Metasploit](https://img.shields.io/badge/-Metasploit-0054A6?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
+![Hydra](https://img.shields.io/badge/-Hydra-000000?style=flat-square&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-000000?style=flat-square&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-000000?style=flat-square&logoColor=white)
+![Nikto](https://img.shields.io/badge/-Nikto-4B8BBE?style=flat-square&logoColor=white)
+![SQLMap](https://img.shields.io/badge/-SQLMap-006400?style=flat-square&logoColor=white)
+
 
 ## 📊 GitHub Stats
 ![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaizenBounty0011&show_icons=true&theme=radical)
