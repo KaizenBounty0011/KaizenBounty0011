@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a **Software Engineer** & **Cybersecurity Expe
 - 💻 5+ years of experience as a Software Engineer.
 - 🛠️ Skilled in Python, PHP, JavaScript, MySQL, and more.
 - 🎯 Focused on building security focused backend systems and  applications..
-- 🌍 Based in Nigeria.
 
 ---
 ### 📫 How to Reach Me
