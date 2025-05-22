@@ -10,6 +10,13 @@ Welcome to my GitHub profile! I'm a **Software Engineer** & **Cybersecurity Expe
 - 🌍 Based in Nigeria.
 
 ---
+### 📫 How to Reach Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/peter-prest-ba5636235/)
+[![Twitter/X](https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/Kai_zen_01)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/kaizen_bounty)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:kaizenbounty101011@gmail.com)
+
+---
 ## 🚀 Tech Stack
 ---
 
@@ -156,15 +163,6 @@ Collection of interactive math games for kids.
 - Educational platforms for kids
 - Community tech projects in Africa
 
-### 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/peter-prest-ba5636235/)
-[![Twitter/X](https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/Kai_zen_01)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:kaizenbounty101011@gmail.com)
-
-- Email: [kaizenbounty101011@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/peter-prest-ba5636235/](#)
-- Twitter: [@Kai_zen_01](#)
-- Instagram: [@kaizen_bounty](#)
 
 ### ⚡ Fun Fact
 I believe **continuous improvement (Kaizen)** is the secret to excellence!
