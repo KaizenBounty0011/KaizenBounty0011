@@ -28,15 +28,15 @@ Welcome to my GitHub profile! I'm a **Software Engineer** & **Cybersecurity Expe
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
 ## 🛡️ Cybersecurity & Penetration Testing Tools  
-![Linux](https://img.shields.io/badge/-Linux-FC0000?logo=linux&logoColor=white&style=flat-square)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-FF0000?logo=kalilinux&logoColor=white&style=flat-square)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF0000?style=flat-square&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF0000?logo=postman&logoColor=white&style=flat-square)
-![Wireshark](https://img.shields.io/badge/-Wireshark-FF0000?logo=wireshark&logoColor=white&style=flat-square)
-![Metasploit](https://img.shields.io/badge/-Metasploit-FF0000?style=flat-square&logoColor=white)
-![Nikto](https://img.shields.io/badge/-Nikto-FF0000?style=flat-square&logoColor=white)
-![SQLMap](https://img.shields.io/badge/-SQLMap-FF0000?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-FF0000?style=flat-square&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0066CC?logo=kalilinux&logoColor=white&style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?logo=burpsuite&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-F76935?logo=postman&logoColor=white&style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1A75BB?logo=wireshark&logoColor=white&style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-0091EA?logo=metasploit&logoColor=white&style=flat-square)
+![Nikto](https://img.shields.io/badge/Nikto-4CAF50?style=flat-square&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-388E3C?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-03A9F4?style=flat-square&logoColor=white)
 
 
 ---
